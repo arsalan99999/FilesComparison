@@ -1,0 +1,5 @@
+﻿SourceHeaders,TargetHeaders,DataType,MetaData,Compare
+user_id,student_id,Integer,,no
+user_name,student_name,String,,
+user_role,student_role,String,,
+user_height,student_height,BigDecimal,3,
